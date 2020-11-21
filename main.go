@@ -48,6 +48,6 @@ func main() {
 			fmt.Println(err)
 		}
 
-		// time.Sleep(time.Millisecond * 500)
+		time.Sleep(time.Millisecond * 200)
 	}
 }
